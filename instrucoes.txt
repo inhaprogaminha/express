@@ -1,0 +1,1 @@
+quando eu abaixar em casa devo usar o npm install para abaixar o node_modules
